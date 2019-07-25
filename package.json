@@ -1,0 +1,25 @@
+{
+  "name": "nlcTest",
+  "version": "1.0.0",
+  "description": "My astonishing Nuxt.js project",
+  "author": "Lukyanov Alexey",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.5.4",
+    "@nuxtjs/pwa": "^2.6.0",
+    "devextreme": "^19.1.4",
+    "devextreme-vue": "^19.1.4",
+    "maptalks": "^0.44.2",
+    "maptalks.heatmap": "^0.6.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
