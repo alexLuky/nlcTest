@@ -17,7 +17,7 @@
     "devextreme-vue": "^19.1.4",
     "maptalks": "^0.44.2",
     "maptalks.heatmap": "^0.6.1",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
